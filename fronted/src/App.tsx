@@ -12,6 +12,7 @@ const App = () => (
             </h1>
             <div>
                 <Button>Click me</Button>
+                <Button>Click 2</Button>
             </div>
         </main>
         <footer>
